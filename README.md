@@ -1,1 +1,1 @@
-# HR_Analytic-Capstone-Project
+# HR_Analytics-Capstone-Project
